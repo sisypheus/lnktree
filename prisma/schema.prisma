@@ -12,5 +12,5 @@ model Link {
   id      String @id @default(cuid())
   url     String
   title   String
-  icon    String
+  icon    String?
 }
