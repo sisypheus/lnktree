@@ -12,9 +12,9 @@
     "@libsql/client": "^0.8.1",
     "@prisma/adapter-libsql": "^5.21.1",
     "@prisma/client": "^5.21.1",
-    "next": "15.0.2",
-    "react": "19.0.0-rc-02c0e824-20241028",
-    "react-dom": "19.0.0-rc-02c0e824-20241028"
+    "next": "15.5.7",
+    "react": "19.1.2",
+    "react-dom": "19.1.2"
   },
   "devDependencies": {
     "@types/node": "^20.17.5",
